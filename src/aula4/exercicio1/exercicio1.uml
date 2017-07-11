@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-10.0" y="772.5">aula4.exercicio1.TesteAnimal</node>
+    <node x="75.5" y="628.0">aula4.exercicio1.Gato</node>
+    <node x="-1.5" y="175.5">aula4.exercicio1.Animal</node>
+    <node x="74.0" y="-12.0">aula4.exercicio1.Peixe</node>
+    <node x="502.5" y="308.0">aula4.exercicio1.Cachorro</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="aula4.exercicio1.Peixe" target="aula4.exercicio1.Animal">
+      <point x="0.0" y="52.0" />
+      <point x="0.0" y="-184.5" />
+    </edge>
+    <edge source="aula4.exercicio1.Cachorro" target="aula4.exercicio1.Animal">
+      <point x="-137.5" y="0.0" />
+      <point x="201.5" y="0.0" />
+    </edge>
+    <edge source="aula4.exercicio1.Gato" target="aula4.exercicio1.Animal">
+      <point x="0.0" y="-52.0" />
+      <point x="0.0" y="184.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="305.0" y="323.0" />
+  <SelectedNodes>
+    <node>aula4.exercicio1.Animal</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

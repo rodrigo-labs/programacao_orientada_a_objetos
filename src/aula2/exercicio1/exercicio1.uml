@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="32.5" y="225.0">aula2.exercicio1.Unidade</node>
+    <node x="0.0" y="0.0">aula2.exercicio1.Endereco</node>
+    <node x="2.5" y="507.0">aula2.exercicio1.Aluno</node>
+    <node x="22.5" y="354.0">aula2.exercicio1.Curso</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="aula2.exercicio1.Curso" target="aula2.exercicio1.Unidade">
+      <point x="0.0" y="-51.5" />
+      <point x="0.0" y="39.5" />
+    </edge>
+    <edge source="aula2.exercicio1.Unidade" target="aula2.exercicio1.Endereco">
+      <point x="0.0" y="-39.5" />
+      <point x="0.0" y="87.5" />
+    </edge>
+    <edge source="aula2.exercicio1.Aluno" target="aula2.exercicio1.Curso">
+      <point x="0.0" y="-75.5" />
+      <point x="0.0" y="51.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="40.0" />
+  <SelectedNodes>
+    <node>aula2.exercicio1.Unidade</node>
+    <node>aula2.exercicio1.Endereco</node>
+    <node>aula2.exercicio1.Curso</node>
+    <node>aula2.exercicio1.Aluno</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
